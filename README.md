@@ -16,19 +16,19 @@ The system enables:
 ## 📁 Repository Structure
 
 ```plaintext
-├── src/                     # Core Python modules
-│   ├── analysis/           # Plotting & data visualization
-│   ├── instruments/        # Pulse sequence generation & device interface
-│   ├── measurement/        # IV, pulsing, crossbar logic
-│   ├── utils/              # Data I/O, hardware utilities
-├── examples/               # Jupyter notebooks for interactive usage
-│   └── main.ipynb          # Entry-point notebook for experiments
-├── report/                 # Final report (PDF) and LaTeX source
-├── presentation/           # Final presentation slides
-├── crossbar_config/        # TOML files for pin mapping
-├── docs/                   # Guides and documentation
-│   └── WIP_ArC_TWO_Guide.pdf  # ETH Zurich user setup guide
-└── README.md               # This file
+├── src/
+│   ├── analysis/             # Plotting & data visualization
+│   ├── instruments/          # Pulse sequence generation & device interface
+│   ├── measurement/          # IV, pulsing, crossbar logic
+│   └── utils/                # Data I/O, hardware utilities
+├── examples/
+│   └── main.ipynb            # Entry-point notebook for experiments
+├── crossbar_config/          # TOML files for pin mapping
+├── docs/                     # Documentation and guides
+│   ├── WIP_ArC_TWO_Guide_V4.pdf  # ETH Zurich user setup guide
+│   ├── Semester_Project_Report.pdf # Report
+│   └── Semester_project_presentation_Jeff_Ren.pdf # Presentation slides
+└── README.md                 # This file
 ```
 
 ## 🚀 Getting Started
@@ -39,8 +39,7 @@ The system enables:
 - `pyarc2` (Python bindings for ArC TWO)
 - `numpy`, `matplotlib`, `h5py`, etc.
 - Jupyter Lab or Notebook
-
-> ℹ️ A conda environment file or `requirements.txt` may be added in future.
+check 📄 [WIP ArC TWO Guide (PDF)](./docs/WIP_ArC_TWO_Guide.pdf)
 
 ### Running an Experiment
 
