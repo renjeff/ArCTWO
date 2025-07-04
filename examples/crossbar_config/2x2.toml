@@ -1,0 +1,24 @@
+[config]
+# optional name for this configuration
+# if left empty will default to the filename
+name = "TEST 2x2"
+# number of total word- and bitlines (required)
+words = 2
+bits = 2
+# optional list of masked crosspoints. If this
+# key is set only the specified word/bitlines
+# will be available in the crossbar view. This
+# example enables every other crosspoint along
+# the main diagonal
+
+
+[mapping]
+# corresponding channels for wordlines
+# in this case wordline 0 is channel 17, wordline 1 is channel 18
+# and so on.
+words = [17,18]
+
+# corresponding channels for bitlines
+# in this case bitline 0 is channel 13, bitline 1 is channel 14
+# and so on.
+bits = [13, 14]
