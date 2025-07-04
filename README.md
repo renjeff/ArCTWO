@@ -39,7 +39,7 @@ The system enables:
 - `pyarc2` (Python bindings for ArC TWO)
 - `numpy`, `matplotlib`, `h5py`, etc.
 - Jupyter Lab or Notebook
-check 📄 [WIP ArC TWO Guide (PDF)](./docs/WIP_ArC_TWO_Guide.pdf)
+check 📄 [WIP ArC TWO Guide (PDF)](./docs/WIP ArC TWO Guide V4.pdf)
 
 ### Running an Experiment
 
@@ -59,7 +59,7 @@ The notebook demonstrates:
 
 If you're working from ETH lab computers (e.g. `steghorn`), setup instructions, conda environment configuration, firmware flashing, and remote GUI usage are documented in the following guide:
 
-📄 [WIP ArC TWO Guide (PDF)](./docs/WIP_ArC_TWO_Guide.pdf)
+📄 [WIP ArC TWO Guide (PDF)](./docs/WIP ArC TWO Guide V4.pdf)
 
 ## 📝 Report
 he final semester report and presentation slides are included in:
