@@ -62,7 +62,7 @@ If you're working from ETH lab computers (e.g. `steghorn`), setup instructions, 
 📄 [WIP ArC TWO Guide (PDF)](./docs/WIP%20ArC%20TWO%20Guide%20V4.pdf)
 
 ## 📝 Report
-he final semester report and presentation slides are included in:
+The final semester report and presentation slides are included in:
 - [`/docs/Semester_Project_Report.pdf`](./docs/Semester_Project_Report.pdf)
 - [`/docs/Semester_project_presentation_Jeff_Ren.pdf`](./docs/Semester_project_presentation_Jeff_Ren.pdf)
 
